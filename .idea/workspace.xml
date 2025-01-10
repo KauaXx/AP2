@@ -18,7 +18,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0372d5a6-c4e2-46d0-884e-8d338125d40d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LISTAS/Lista 1 - Estruturas heterogêneas/QUESTÃO 3/questao 3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LISTAS/Lista 1 - Estruturas heterogêneas/QUESTÃO 4/questao 4.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +44,7 @@
     "C/C++ File.questao 1.c.executor": "Run",
     "C/C++ File.questao 2.c.executor": "Run",
     "C/C++ File.questao 3.c.executor": "Run",
+    "C/C++ File.questao 4.c.executor": "Run",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -60,7 +61,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.questao 3.c">
+  <component name="RunManager" selected="C/C++ File.questao 4.c">
     <configuration name="questao 1.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AP2" TARGET_NAME="questao 1.c" CONFIG_NAME="questao 1.c">
       <option name="sourceFile" value="LISTAS\Lista 1 - Estruturas heterogêneas\QUESTÃO 1\questao 1.c" />
       <method v="2">
@@ -79,8 +80,15 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="questao 4.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AP2" TARGET_NAME="questao 4.c" CONFIG_NAME="questao 4.c">
+      <option name="sourceFile" value="LISTAS\Lista 1 - Estruturas heterogêneas\QUESTÃO 4\questao 4.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.questao 4.c" />
         <item itemvalue="C/C++ File.questao 3.c" />
         <item itemvalue="C/C++ File.questao 2.c" />
         <item itemvalue="C/C++ File.questao 1.c" />
@@ -103,7 +111,7 @@
       <workItem from="1736473992864" duration="103000" />
       <workItem from="1736474128363" duration="424000" />
       <workItem from="1736474576496" duration="1858000" />
-      <workItem from="1736476472604" duration="997000" />
+      <workItem from="1736476472604" duration="1573000" />
     </task>
     <servers />
   </component>
