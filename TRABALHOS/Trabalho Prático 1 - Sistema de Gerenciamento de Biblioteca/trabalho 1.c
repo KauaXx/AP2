@@ -23,7 +23,7 @@ typedef struct {
 void AdicionarLivro(Biblioteca *biblioteca) {
     if (biblioteca->quantidadeLivros < 100) {
         printf("Insira o titulo do livro: ");
-        getchar(); // Limpa o buffer
+        getchar();
         fgets(biblioteca->livros[biblioteca->quantidadeLivros].titulo, 100, stdin);
        biblioteca->livros[biblioteca->quantidadeLivros].titulo[strcspn(biblioteca->livros[biblioteca->quantidadeLivros].titulo, "\n")] = 0;
         printf("Insira o autor do livro: ");
